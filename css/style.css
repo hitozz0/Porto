@@ -22,3 +22,25 @@ body{
 #jdl-blog{
     font-size: 50px;
 }
+#btn1{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+#btn2{
+    margin-top: 200px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+#btn3{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
